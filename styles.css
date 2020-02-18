@@ -1,0 +1,33 @@
+body{
+    background: rgb(102, 102, 153); 
+    max-width: 1024px;
+    
+}
+
+h1 {
+    text-align: center; 
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {text-align: center;}
+h4 {text-align: center;}
+
+ul {
+    text-align: center;
+    font-size: 22px;
+}
+li {
+    position: center;
+}
+
+p {
+    text-align: center;
+}
+
+.image{
+    text-align: center;
+   
+}
